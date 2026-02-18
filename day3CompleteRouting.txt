@@ -420,7 +420,7 @@ end
 TASK4: WHY OSPF AND BGP ARE BEST FRIENDS, SOULMATE, LOVERS, FUCKBUDDY, MU, FOREVER, LIFETIME, COMMITED
                              BFF, :
 OSPF can Inject all BGP routes int ONE ospf route: O*E2
-R1:
+R1: r3
 CONFIG t
 router ospf 1
 Default-Information Originate
@@ -479,6 +479,7 @@ Howt to configure Site 2 site VPN JP to PH:
 https://
 
 TASK6: FUndamentals of Cisco network Security:
+
 
 
 
